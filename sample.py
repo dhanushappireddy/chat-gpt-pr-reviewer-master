@@ -5,7 +5,7 @@ def add(a, b):  # Added a print statement for testing
     return a + b
 
 def subtract(a, b):
-    priint("Subtract")
+    priint("Subtract");
     return a - b
 
 def multiply(a, b):
